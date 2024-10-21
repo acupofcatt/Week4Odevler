@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlkSinif", "IlkSinif\IlkSin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructer", "Constructer\Constructer.csproj", "{22D033D1-A6F9-4386-9145-BC5ADD437C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane", "Kutuphane\Kutuphane.csproj", "{62E4E787-5C20-4350-919C-5D77F34B0D07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{22D033D1-A6F9-4386-9145-BC5ADD437C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D033D1-A6F9-4386-9145-BC5ADD437C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D033D1-A6F9-4386-9145-BC5ADD437C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E4E787-5C20-4350-919C-5D77F34B0D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E4E787-5C20-4350-919C-5D77F34B0D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E4E787-5C20-4350-919C-5D77F34B0D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E4E787-5C20-4350-919C-5D77F34B0D07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
