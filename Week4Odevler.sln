@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{EA93A7BF-FA18-4913-8A91-77BAF7B5C2F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{C00453D4-418A-44A4-96F0-DBC592850284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapanis", "Kapanis\Kapanis.csproj", "{C1492030-5F8D-450A-AFDA-E242E31C2386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{EA93A7BF-FA18-4913-8A91-77BAF7B5C2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA93A7BF-FA18-4913-8A91-77BAF7B5C2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA93A7BF-FA18-4913-8A91-77BAF7B5C2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00453D4-418A-44A4-96F0-DBC592850284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00453D4-418A-44A4-96F0-DBC592850284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00453D4-418A-44A4-96F0-DBC592850284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00453D4-418A-44A4-96F0-DBC592850284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1492030-5F8D-450A-AFDA-E242E31C2386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1492030-5F8D-450A-AFDA-E242E31C2386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1492030-5F8D-450A-AFDA-E242E31C2386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1492030-5F8D-450A-AFDA-E242E31C2386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
